@@ -1,0 +1,2 @@
+Infubinol has an outlier which is lower than the lower quartile range there are no other outliers observed with other drugs.
+There is a strong corelation between mouse weight and the average tumor volume
